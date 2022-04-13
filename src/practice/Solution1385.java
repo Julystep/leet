@@ -15,7 +15,7 @@ public class Solution1385 {
             int p = binarySearch(arr2, x);
             boolean ok = true;
             if (p < arr2.length) {
-                ok &= arr2[p] - x > d;
+                ok = arr2[p] - x > d;
             }
             if (p - 1 >= 0 && p - 1 <= arr2.length) {
                 ok &= x - arr2[p - 1] > d;

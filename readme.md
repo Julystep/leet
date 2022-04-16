@@ -13,11 +13,19 @@
 
 [131.分割回文串](src/practice/Solution131.java)
 
+[198.打家劫舍](src/practice/Solution198.java)
+
+[213.打家劫舍||](src/practice/Solution213.java)
+
+[337.打家劫舍|||](src/practice/Solution337.java)
+
 [367.完全有效的平方数](src/practice/Solution367.java)
 
 [374.猜数字大小](src/practice/Solution374.java)
 
 [380.O(1)时间插入、删除和获取随机元素](src/practice/RandomizedSet.java)
+
+[441.排列硬币](src/practice/Solution441.java)
 
 [704.二分查找](src/practice/Solution704.java)
 
@@ -26,3 +34,5 @@
 [852.山脉数组的峰顶索引](src/practice/Solution852.java)
 
 [1385.两个数组间的距离值](src/practice/Solution1385.java)
+
+[1539.第k个缺失的正整数](src/practice/Solution1539.java)

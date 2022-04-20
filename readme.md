@@ -11,6 +11,8 @@
 
 [74.搜索二维矩阵](src/practice/Solution74.java)
 
+[91.解码方法](src/practice/Solution91.java)
+
 [96.不同的二叉搜索树](src/practice/Solution96.java)
 
 [97.交错的字符串](src/practice/Solution97.java)
@@ -29,6 +31,8 @@
 
 [337.打家劫舍|||](src/practice/Solution337.java)
 
+[350.两个数组的交集||](src/practice/Solution350.java)
+
 [367.完全有效的平方数](src/practice/Solution367.java)
 
 [374.猜数字大小](src/practice/Solution374.java)
@@ -37,7 +41,11 @@
 
 [386.字典序排数](src/practice/Solution386.java)
 
+[388.文件的最长绝对路径](src/practice/Solution388.java)
+
 [441.排列硬币](src/practice/Solution441.java)
+
+[633.平方数之和](src/practice/Solution633.java)
 
 [704.二分查找](src/practice/Solution704.java)
 

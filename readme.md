@@ -1,6 +1,8 @@
 # 每日学习
 [5.最长回文子串](src/practice/Solution5.java)
 
+[33.搜索旋转排序数组](src/practice/Solution33.java)
+
 [34.在排序数组中查找元素的第一个和最后一个位置](src/practice/Solution34.java)
 
 [35.搜索插入位置](src/practice/Solution35.java)
@@ -30,6 +32,8 @@
 [322.零钱兑换](src/practice/Solution322.java)
 
 [337.打家劫舍|||](src/practice/Solution337.java)
+
+[338.比特位计数](src/practice/Solution338.java)
 
 [350.两个数组的交集||](src/practice/Solution350.java)
 
@@ -66,3 +70,5 @@
 [1539.第k个缺失的正整数](src/practice/Solution1539.java)
 
 [1608.特殊数组的特征值](src/practice/Solution1608.java)
+
+[1855.下标对中的最大距离](src/practice/Solution1855.java)

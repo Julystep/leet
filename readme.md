@@ -23,6 +23,8 @@
 
 [131.分割回文串](src/practice/Solution131.java)
 
+[153.寻找旋转排序数组中的最小值](src/practice/Solution153.java)
+
 [167.两数之和|| - 输入有序数组](src/practice/Solution167.java)
 
 [198.打家劫舍](src/practice/Solution198.java)

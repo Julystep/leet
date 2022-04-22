@@ -47,6 +47,8 @@
 
 [388.文件的最长绝对路径](src/practice/Solution388.java)
 
+[396.旋转函数](src/practice/Solution396.java)
+
 [441.排列硬币](src/practice/Solution441.java)
 
 [633.平方数之和](src/practice/Solution633.java)

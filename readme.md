@@ -59,6 +59,8 @@
 
 [852.山脉数组的峰顶索引](src/practice/Solution852.java)
 
+[868.二进制间距](src/practice/Solution868.java)
+
 [1337.矩阵中战斗力最弱的K行](src/practice/Solution1337.java)
 
 [1346.检查整数及其两倍数是否存在](src/practice/Solution1346.java)

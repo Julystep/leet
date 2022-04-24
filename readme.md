@@ -23,6 +23,8 @@
 
 [131.分割回文串](src/practice/Solution131.java)
 
+[153.寻找旋转排序数组中的最小值](src/practice/Solution153.java)
+
 [167.两数之和|| - 输入有序数组](src/practice/Solution167.java)
 
 [198.打家劫舍](src/practice/Solution198.java)
@@ -46,6 +48,8 @@
 [386.字典序排数](src/practice/Solution386.java)
 
 [388.文件的最长绝对路径](src/practice/Solution388.java)
+
+[396.旋转函数](src/practice/Solution396.java)
 
 [441.排列硬币](src/practice/Solution441.java)
 

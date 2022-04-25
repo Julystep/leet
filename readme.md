@@ -29,6 +29,8 @@
 
 [198.打家劫舍](src/practice/Solution198.java)
 
+[209.长度最小的子数组](src/practice/Solution209.java)
+
 [213.打家劫舍||](src/practice/Solution213.java)
 
 [322.零钱兑换](src/practice/Solution322.java)
@@ -51,7 +53,11 @@
 
 [396.旋转函数](src/practice/Solution396.java)
 
+[398.随机数索引](src/practice/Solution398.java)
+
 [441.排列硬币](src/practice/Solution441.java)
+
+[611.有效三角形的个数](src/practice/Solution611.java)
 
 [633.平方数之和](src/practice/Solution633.java)
 

@@ -61,6 +61,8 @@
 
 [633.平方数之和](src/practice/Solution633.java)
 
+[658.找到K个最接近的元素](src/practice/Solution658.java)
+
 [704.二分查找](src/practice/Solution704.java)
 
 [744.寻找比目标字母大的最小字母](src/practice/Solution744.java)
@@ -86,3 +88,5 @@
 [1608.特殊数组的特征值](src/practice/Solution1608.java)
 
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
+
+[1894.找到需要补充粉笔的学生编号](src/practice/Solution1894.java)

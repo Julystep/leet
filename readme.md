@@ -55,6 +55,8 @@
 
 [398.随机数索引](src/practice/Solution398.java)
 
+[427.建立四叉树](src/practice/Solution427.java)
+
 [441.排列硬币](src/practice/Solution441.java)
 
 [611.有效三角形的个数](src/practice/Solution611.java)

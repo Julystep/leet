@@ -79,6 +79,8 @@
 
 [905.按奇偶排序数组](src/practice/Solution905.java)
 
+[922.增减字符串匹配](src/practice/Solution942.java)
+
 [1337.矩阵中战斗力最弱的K行](src/practice/Solution1337.java)
 
 [1346.检查整数及其两倍数是否存在](src/practice/Solution1346.java)

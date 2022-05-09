@@ -55,11 +55,15 @@
 
 [398.随机数索引](src/practice/Solution398.java)
 
+[427.建立四叉树](src/practice/Solution427.java)
+
 [441.排列硬币](src/practice/Solution441.java)
 
 [611.有效三角形的个数](src/practice/Solution611.java)
 
 [633.平方数之和](src/practice/Solution633.java)
+
+[658.找到K个最接近的元素](src/practice/Solution658.java)
 
 [704.二分查找](src/practice/Solution704.java)
 
@@ -71,7 +75,9 @@
 
 [868.二进制间距](src/practice/Solution868.java)
 
-[922.增减字符串匹配](src/practice/Solution942.java)
+[883.三维形体投影面积](src/practice/Solution883.java)
+
+[905.按奇偶排序数组](src/practice/Solution905.java)
 
 [1337.矩阵中战斗力最弱的K行](src/practice/Solution1337.java)
 
@@ -86,3 +92,5 @@
 [1608.特殊数组的特征值](src/practice/Solution1608.java)
 
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
+
+[1894.找到需要补充粉笔的学生编号](src/practice/Solution1894.java)

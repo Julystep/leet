@@ -16,6 +16,7 @@ public class DynamicDataSource extends AbstractRoutingDataSource {
     public DynamicDataSource(DynamicDataSourceProvider dynamicDataSourceProvider) {
         this.dynamicDataSourceProvider = dynamicDataSourceProvider;
         Map<Object, Object> targetDataSources = new HashMap<>(dynamicDataSourceProvider.loadDataSources());
+        // 将数据源存入动态切换的map中
         super.setTargetDataSources(targetDataSources);
         super.setDefaultTargetDataSource(dynamicDataSourceProvider.loadDataSources().get(DynamicDataSourceProvider.DEFAULT_DATASOURCE));
         super.afterPropertiesSet();

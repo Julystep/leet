@@ -75,6 +75,8 @@
 
 [868.二进制间距](src/practice/Solution868.java)
 
+[875.爱吃香蕉的珂珂](src/practice/Solution875.py)
+
 [883.三维形体投影面积](src/practice/Solution883.java)
 
 [905.按奇偶排序数组](src/practice/Solution905.java)

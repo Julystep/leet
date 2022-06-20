@@ -99,6 +99,11 @@
 
 [1894.找到需要补充粉笔的学生编号](src/practice/Solution1894.java)
 
+# 剑指offer
+[09.用两个栈实现队列](src/practice/SwordSolution9.java)
+
+[30.包含min函数的栈](src/practice/MinStack.java)
+
 # Spring学习
 
 [1. springAOP简单使用](spring-aop)

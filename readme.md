@@ -29,6 +29,8 @@
 
 [198.打家劫舍](src/practice/Solution198.java)
 
+[205.同构字符串](src/practice/Solution205.java)
+
 [209.长度最小的子数组](src/practice/Solution209.java)
 
 [213.打家劫舍||](src/practice/Solution213.java)
@@ -51,6 +53,8 @@
 
 [388.文件的最长绝对路径](src/practice/Solution388.java)
 
+[392.判断子序列](src/practice/Solution392.java)
+
 [396.旋转函数](src/practice/Solution396.java)
 
 [398.随机数索引](src/practice/Solution398.java)
@@ -66,6 +70,8 @@
 [658.找到K个最接近的元素](src/practice/Solution658.java)
 
 [704.二分查找](src/practice/Solution704.java)
+
+[724.寻找数组的中心下标](src/practice/Solution724.java)
 
 [744.寻找比目标字母大的最小字母](src/practice/Solution744.java)
 
@@ -90,6 +96,8 @@
 [1351.统计有序矩阵中的负数](src/practice/Solution1351.java)
 
 [1385.两个数组间的距离值](src/practice/Solution1385.java)
+
+[1480.一维数组的动态和](src/practice/Solution1480.java)
 
 [1539.第k个缺失的正整数](src/practice/Solution1539.java)
 

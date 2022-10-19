@@ -103,6 +103,8 @@
 
 [1608.特殊数组的特征值](src/practice/Solution1608.java)
 
+[1700.无法吃午餐的学生数量](src/practice/Solution1700.java)
+
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
 
 [1894.找到需要补充粉笔的学生编号](src/practice/Solution1894.java)

@@ -63,6 +63,8 @@
 
 [441.排列硬币](src/practice/Solution441.java)
 
+[576.出界的路径数](src/practice/Solution576.java)
+
 [611.有效三角形的个数](src/practice/Solution611.java)
 
 [633.平方数之和](src/practice/Solution633.java)
@@ -102,6 +104,8 @@
 [1480.一维数组的动态和](src/practice/Solution1480.java)
 
 [1539.第k个缺失的正整数](src/practice/Solution1539.java)
+
+[1575.统计所有可行路径](src/practice/Solution1575.java)
 
 [1608.特殊数组的特征值](src/practice/Solution1608.java)
 

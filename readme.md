@@ -109,6 +109,8 @@
 
 [1608.特殊数组的特征值](src/practice/Solution1608.java)
 
+[1668.最大重复子字符串](src/practice/Solution1668.java)
+
 [1700.无法吃午餐的学生数量](src/practice/Solution1700.java)
 
 [1855.下标对中的最大距离](src/practice/Solution1855.java)

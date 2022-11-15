@@ -1,6 +1,10 @@
 # 每日学习
 [5.最长回文子串](src/practice/Solution5.java)
 
+[20.有效的括号](src/practice/Solution20.java)
+
+[28.找出字符串中第一个匹配项的下标](src/practice/Solution28.java)
+
 [33.搜索旋转排序数组](src/practice/Solution33.java)
 
 [34.在排序数组中查找元素的第一个和最后一个位置](src/practice/Solution34.java)
@@ -19,11 +23,15 @@
 
 [97.交错的字符串](src/practice/Solution97.java)
 
+[110.平衡二叉树](src/practice/Solution110.java)
+
 [113.路径总和||](src/practice/Solution113.java)
 
 [131.分割回文串](src/practice/Solution131.java)
 
 [153.寻找旋转排序数组中的最小值](src/practice/Solution153.java)
+
+[155.最小栈](src/practice/Solution155.java)
 
 [167.两数之和|| - 输入有序数组](src/practice/Solution167.java)
 
@@ -36,6 +44,8 @@
 [209.长度最小的子数组](src/practice/Solution209.java)
 
 [213.打家劫舍||](src/practice/Solution213.java)
+
+[279.完全平方数](src/practice/Solution279.java)
 
 [322.零钱兑换](src/practice/Solution322.java)
 
@@ -79,6 +89,8 @@
 
 [724.寻找数组的中心下标](src/practice/Solution724.java)
 
+[739.每日温度](src/practice/Solution739.java)
+
 [744.寻找比目标字母大的最小字母](src/practice/Solution744.java)
 
 [779.寻找比目标字母大的最小字母](src/practice/Solution779.java)
@@ -92,6 +104,8 @@
 [875.爱吃香蕉的珂珂](src/practice/Solution875.py)
 
 [883.三维形体投影面积](src/practice/Solution883.java)
+
+[896.单调数列](src/practice/Soultion896.java)
 
 [905.按奇偶排序数组](src/practice/Solution905.java)
 

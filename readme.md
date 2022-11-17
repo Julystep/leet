@@ -13,6 +13,8 @@
 
 [45.跳跃游戏||](src/practice/Solution45.java)
 
+[66.加一](src/practice/Solution66.java)
+
 [69.x的平方根](src/practice/Solution69.java)
 
 [74.搜索二维矩阵](src/practice/Solution74.java)
@@ -28,6 +30,8 @@
 [113.路径总和||](src/practice/Solution113.java)
 
 [131.分割回文串](src/practice/Solution131.java)
+
+[150.逆波兰表达式](src/practice/Soultion150.java)
 
 [153.寻找旋转排序数组中的最小值](src/practice/Solution153.java)
 
@@ -93,6 +97,8 @@
 
 [744.寻找比目标字母大的最小字母](src/practice/Solution744.java)
 
+[775.全局倒置与局部倒置](src/practice/Solution775.java)
+
 [779.寻找比目标字母大的最小字母](src/practice/Solution779.java)
 
 [821.字符的最短距离](src/practice/Solution821.java)
@@ -130,6 +136,8 @@
 [1668.最大重复子字符串](src/practice/Solution1668.java)
 
 [1700.无法吃午餐的学生数量](src/practice/Solution1700.java)
+
+[1710.卡车上的最大单元数](src/practice/Solution1710.java)
 
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
 

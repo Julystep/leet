@@ -11,6 +11,8 @@
 
 [35.搜索插入位置](src/practice/Solution35.java)
 
+[43.字符串相乘]
+
 [45.跳跃游戏||](src/practice/Solution45.java)
 
 [66.加一](src/practice/Solution66.java)
@@ -122,6 +124,8 @@
 [1346.检查整数及其两倍数是否存在](src/practice/Solution1346.java)
 
 [1351.统计有序矩阵中的负数](src/practice/Solution1351.java)
+
+[1367.二叉树中的链表](src/practice/Solution1367.java)
 
 [1385.两个数组间的距离值](src/practice/Solution1385.java)
 

@@ -11,9 +11,11 @@
 
 [35.搜索插入位置](src/practice/Solution35.java)
 
-[43.字符串相乘]
+[43.字符串相乘](src/practice/Solution43.java)
 
 [45.跳跃游戏||](src/practice/Solution45.java)
+
+[58.最后的代码的长度](src/practice/Solution58.java)
 
 [66.加一](src/practice/Solution66.java)
 
@@ -118,6 +120,8 @@
 [905.按奇偶排序数组](src/practice/Solution905.java)
 
 [922.增减字符串匹配](src/practice/Solution942.java)
+
+[989.数组形式的整数加法](src/practice/Solution989.java)
 
 [1337.矩阵中战斗力最弱的K行](src/practice/Solution1337.java)
 

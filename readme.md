@@ -11,8 +11,6 @@
 
 [35.搜索插入位置](src/practice/Solution35.java)
 
-[43.字符串相乘]
-
 [45.跳跃游戏||](src/practice/Solution45.java)
 
 [66.加一](src/practice/Solution66.java)
@@ -142,6 +140,8 @@
 [1700.无法吃午餐的学生数量](src/practice/Solution1700.java)
 
 [1710.卡车上的最大单元数](src/practice/Solution1710.java)
+
+[1758.生成交替二进制字符串的最少操作数](src/practice/Solution1758.java)
 
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
 

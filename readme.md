@@ -151,6 +151,8 @@
 
 [1710.卡车上的最大单元数](src/practice/Solution1710.java)
 
+[1758.生成交替二进制字符串的最少操作数](src/practice/Solution1758.java)
+
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
 
 [1894.找到需要补充粉笔的学生编号](src/practice/Solution1894.java)

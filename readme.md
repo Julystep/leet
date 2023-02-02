@@ -91,6 +91,8 @@
 
 [633.平方数之和](src/practice/Solution633.java)
 
+[638.大礼包](src/practice/Solution638.java)
+
 [658.找到K个最接近的元素](src/practice/Solution658.java)
 
 [704.二分查找](src/practice/Solution704.java)
@@ -123,6 +125,8 @@
 
 [989.数组形式的整数加法](src/practice/Solution989.java)
 
+[1129.颜色交替的最短路径](src/practice/Solution1129.java)
+
 [1337.矩阵中战斗力最弱的K行](src/practice/Solution1337.java)
 
 [1346.检查整数及其两倍数是否存在](src/practice/Solution1346.java)
@@ -150,6 +154,8 @@
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
 
 [1894.找到需要补充粉笔的学生编号](src/practice/Solution1894.java)
+
+[2325.解密消息]()
 
 # 剑指offer
 [09.用两个栈实现队列](src/practice/SwordSolution9.java)

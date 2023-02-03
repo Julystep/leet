@@ -3,6 +3,8 @@
 
 [20.有效的括号](src/practice/Solution20.java)
 
+[21.合并两个有序链表](src/practice/Solution21.java)
+
 [28.找出字符串中第一个匹配项的下标](src/practice/Solution28.java)
 
 [33.搜索旋转排序数组](src/practice/Solution33.java)
@@ -54,6 +56,8 @@
 [200.岛屿数量](src/practice/Solution200.java)
 
 [205.同构字符串](src/practice/Solution205.java)
+
+[206.反转链表](src/practice/Solution206.java)
 
 [209.长度最小的子数组](src/practice/Solution209.java)
 
@@ -132,6 +136,8 @@
 [989.数组形式的整数加法](src/practice/Solution989.java)
 
 [1129.颜色交替的最短路径](src/practice/Solution1129.java)
+
+[1145,二叉树着色游戏](src/practice/Solution1145.java)
 
 [1337.矩阵中战斗力最弱的K行](src/practice/Solution1337.java)
 

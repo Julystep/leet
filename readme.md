@@ -41,7 +41,17 @@
 
 [113.路径总和||](src/practice/Solution113.java)
 
+[116.填充每个节点的下一个右侧节点指针](src/practice/Solution116.java)
+
+[117.填充每个节点的下一个右侧节点指针 II](src/practice/Solution117.java)
+
+[121.买卖股票的最佳时机](src/practice/Solution121.java)
+
+[130.被围绕的区域](src/practice/Solution130.java)
+
 [131.分割回文串](src/practice/Solution131.java)
+
+[142.环形链表 II](src/practice/Solution142.java)
 
 [150.逆波兰表达式](src/practice/Soultion150.java)
 
@@ -95,6 +105,8 @@
 
 [576.出界的路径数](src/practice/Solution576.java)
 
+[589.N 叉树的前序遍历](src/practice/Solution589.java)
+
 [611.有效三角形的个数](src/practice/Solution611.java)
 
 [622.设计循环队列](src/practice/Solution622.java)
@@ -124,6 +136,8 @@
 [868.二进制间距](src/practice/Solution868.java)
 
 [875.爱吃香蕉的珂珂](src/practice/Solution875.py)
+
+[876.链表的中间结点](src/practice/Solution876.java)
 
 [883.三维形体投影面积](src/practice/Solution883.java)
 
@@ -165,9 +179,13 @@
 
 [1758.生成交替二进制字符串的最少操作数](src/practice/Solution1758.java)
 
+[1798.你能构造出连续值的最大数目](src/practice/Solution1798.java)
+
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
 
 [1894.找到需要补充粉笔的学生编号](src/practice/Solution1894.java)
+
+[2331.计算布尔二叉树的值](src/practice/Solution2331.java)
 
 [2325.解密消息]()
 

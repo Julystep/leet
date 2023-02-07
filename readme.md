@@ -73,6 +73,8 @@
 
 [213.打家劫舍||](src/practice/Solution213.java)
 
+[278.第一个错误的版本](src/practice/Solution278.java)
+
 [279.完全平方数](src/practice/Solution279.java)
 
 [322.零钱兑换](src/practice/Solution322.java)
@@ -170,6 +172,8 @@
 [1575.统计所有可行路径](src/practice/Solution1575.java)
 
 [1608.特殊数组的特征值](src/practice/Solution1608.java)
+
+[1604.警告一小时内使用相同员工卡大于等于三次的人](src/practice/Solution1604.java)
 
 [1668.最大重复子字符串](src/practice/Solution1668.java)
 

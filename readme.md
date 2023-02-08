@@ -31,6 +31,8 @@
 
 [97.交错的字符串](src/practice/Solution97.java)
 
+[98.验证二叉搜索树](src/practice/Solution98.java)
+
 [100.相同的树](src/practice/Solution100.java)
 
 [103.二叉树的锯齿形层序遍历](src/practice/Solution103.java)
@@ -72,6 +74,8 @@
 [209.长度最小的子数组](src/practice/Solution209.java)
 
 [213.打家劫舍||](src/practice/Solution213.java)
+
+[235.二叉搜索树的最近公共祖先](src/practice/Solution235.java)
 
 [278.第一个错误的版本](src/practice/Solution278.java)
 
@@ -154,6 +158,8 @@
 [1129.颜色交替的最短路径](src/practice/Solution1129.java)
 
 [1145,二叉树着色游戏](src/practice/Solution1145.java)
+
+[1233.删除子文件夹](src/practice/Solution1233.java)
 
 [1337.矩阵中战斗力最弱的K行](src/practice/Solution1337.java)
 

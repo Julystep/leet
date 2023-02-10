@@ -23,6 +23,8 @@
 
 [69.x的平方根](src/practice/Solution69.java)
 
+[70.爬楼梯](src/practice/Solution70.java)
+
 [74.搜索二维矩阵](src/practice/Solution74.java)
 
 [91.解码方法](src/practice/Solution91.java)
@@ -131,6 +133,8 @@
 
 [744.寻找比目标字母大的最小字母](src/practice/Solution744.java)
 
+[746.使用最小花费爬楼梯](src/practice/Solution746.java)
+
 [775.全局倒置与局部倒置](src/practice/Solution775.java)
 
 [779.寻找比目标字母大的最小字母](src/practice/Solution779.java)
@@ -188,6 +192,8 @@
 [1710.卡车上的最大单元数](src/practice/Solution1710.java)
 
 [1758.生成交替二进制字符串的最少操作数](src/practice/Solution1758.java)
+
+[1797.设计一个验证系统](src/practice/Solution1797.java)
 
 [1798.你能构造出连续值的最大数目](src/practice/Solution1798.java)
 

@@ -109,6 +109,8 @@
 
 [392.判断子序列](src/practice/Solution392.java)
 
+[394.字符串解码](src/practice/Solution394.java)
+
 [396.旋转函数](src/practice/Solution396.java)
 
 [398.随机数索引](src/practice/Solution398.java)
@@ -172,6 +174,8 @@
 [989.数组形式的整数加法](src/practice/Solution989.java)
 
 [1061.按字典序排列最小的等效字符串](src/practice/Solution1061.java)
+
+[1124.表现良好的最长时间段](src/practice/Solution1124.java)
 
 [1129.颜色交替的最短路径](src/practice/Solution1129.java)
 

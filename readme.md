@@ -225,9 +225,11 @@
 
 [1945.字符串转化后的各位数字之和](src/practice/Solution1945.java)
 
+[2124.检查是否所有 A 都在 B 之前](src/practice/Solution2124.java)
+
 [2331.计算布尔二叉树的值](src/practice/Solution2331.java)
 
-[2325.解密消息]()
+[2399.检查相同字母间的距离](src/practice/Solution2399.java)
 
 # 剑指offer
 [09.用两个栈实现队列](src/practice/SwordSolution9.java)

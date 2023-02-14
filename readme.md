@@ -1,4 +1,6 @@
 # 每日学习
+[1.两数之和](src/practice/Solution1.java)
+
 [5.最长回文子串](src/practice/Solution5.java)
 
 [20.有效的括号](src/practice/Solution20.java)
@@ -18,6 +20,8 @@
 [45.跳跃游戏||](src/practice/Solution45.java)
 
 [58.最后的代码的长度](src/practice/Solution58.java)
+
+[62.不同路径](src/practice/Solution62.java)
 
 [66.加一](src/practice/Solution66.java)
 
@@ -83,6 +87,8 @@
 
 [279.完全平方数](src/practice/Solution279.java)
 
+[299.猜数字游戏](src/practice/Solution299.java)
+
 [322.零钱兑换](src/practice/Solution322.java)
 
 [337.打家劫舍|||](src/practice/Solution337.java)
@@ -107,7 +113,11 @@
 
 [398.随机数索引](src/practice/Solution398.java)
 
+[424.替换后的最长重复字符](src/practice/Solution424.java)
+
 [427.建立四叉树](src/practice/Solution427.java)
+
+[438.找到字符串中所有字母异位词](src/practice/Solution438.java)
 
 [441.排列硬币](src/practice/Solution441.java)
 
@@ -141,6 +151,8 @@
 
 [821.字符的最短距离](src/practice/Solution821.java)
 
+[844.比较含退格的字符串](src/practice/Solution844.java)
+
 [852.山脉数组的峰顶索引](src/practice/Solution852.java)
 
 [868.二进制间距](src/practice/Solution868.java)
@@ -158,6 +170,8 @@
 [922.增减字符串匹配](src/practice/Solution942.java)
 
 [989.数组形式的整数加法](src/practice/Solution989.java)
+
+[1061.按字典序排列最小的等效字符串](src/practice/Solution1061.java)
 
 [1129.颜色交替的最短路径](src/practice/Solution1129.java)
 
@@ -181,6 +195,8 @@
 
 [1575.统计所有可行路径](src/practice/Solution1575.java)
 
+[1593.拆分字符串使唯一子字符串的数目最大](src/practice/Solution1593.java)
+
 [1608.特殊数组的特征值](src/practice/Solution1608.java)
 
 [1604.警告一小时内使用相同员工卡大于等于三次的人](src/practice/Solution1604.java)
@@ -197,9 +213,13 @@
 
 [1798.你能构造出连续值的最大数目](src/practice/Solution1798.java)
 
+[1805.字符串中不同整数的数目](src/practice/Solution1805.java)
+
 [1855.下标对中的最大距离](src/practice/Solution1855.java)
 
 [1894.找到需要补充粉笔的学生编号](src/practice/Solution1894.java)
+
+[1945.字符串转化后的各位数字之和](src/practice/Solution1945.java)
 
 [2331.计算布尔二叉树的值](src/practice/Solution2331.java)
 

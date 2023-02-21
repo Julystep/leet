@@ -19,6 +19,8 @@
 
 [45.跳跃游戏||](src/practice/Solution45.java)
 
+[54.螺旋矩阵](src/practice/Solution54.java)
+
 [58.最后的代码的长度](src/practice/Solution58.java)
 
 [62.不同路径](src/practice/Solution62.java)
@@ -73,6 +75,8 @@
 
 [200.岛屿数量](src/practice/Solution200.java)
 
+[202.快乐数](src/practice/Solution202.java)
+
 [205.同构字符串](src/practice/Solution205.java)
 
 [206.反转链表](src/practice/Solution206.java)
@@ -80,6 +84,8 @@
 [209.长度最小的子数组](src/practice/Solution209.java)
 
 [213.打家劫舍||](src/practice/Solution213.java)
+
+[215.数组中的第K个最大元素](src/practice/Solution215.java)
 
 [235.二叉搜索树的最近公共祖先](src/practice/Solution235.java)
 
@@ -94,6 +100,8 @@
 [337.打家劫舍|||](src/practice/Solution337.java)
 
 [338.比特位计数](src/practice/Solution338.java)
+
+[347.前 K 个高频元素](src/practice/Solution347.java)
 
 [350.两个数组的交集||](src/practice/Solution350.java)
 
@@ -114,6 +122,8 @@
 [396.旋转函数](src/practice/Solution396.java)
 
 [398.随机数索引](src/practice/Solution398.java)
+
+[414.第三大的数](src/practice/Solution414.java)
 
 [424.替换后的最长重复字符](src/practice/Solution424.java)
 
@@ -136,6 +146,8 @@
 [638.大礼包](src/practice/Solution638.java)
 
 [658.找到K个最接近的元素](src/practice/Solution658.java)
+
+[692.前K个高频单词](src/practice/Solution692.java)
 
 [704.二分查找](src/practice/Solution704.java)
 
@@ -173,6 +185,8 @@
 
 [989.数组形式的整数加法](src/practice/Solution989.java)
 
+[1046.最后一块石头的重量](src/practice/Solution1046.java)
+
 [1061.按字典序排列最小的等效字符串](src/practice/Solution1061.java)
 
 [1124.表现良好的最长时间段](src/practice/Solution1124.java)
@@ -208,6 +222,8 @@
 [1668.最大重复子字符串](src/practice/Solution1668.java)
 
 [1700.无法吃午餐的学生数量](src/practice/Solution1700.java)
+
+[1706.球会落何处](src/practice/Solution1706.java)
 
 [1710.卡车上的最大单元数](src/practice/Solution1710.java)
 

@@ -3,6 +3,10 @@
 
 [5.最长回文子串](src/practice/Solution5.java)
 
+[14.最长公共前缀](src/practice/Solution14.java)
+
+[19.删除链表的倒数第 N 个结点](src/practice/Solution19.java)
+
 [20.有效的括号](src/practice/Solution20.java)
 
 [21.合并两个有序链表](src/practice/Solution21.java)
@@ -63,6 +67,8 @@
 
 [142.环形链表 II](src/practice/Solution142.java)
 
+[148.排序链表](src/practice/Solution148.java)
+
 [150.逆波兰表达式](src/practice/Soultion150.java)
 
 [153.寻找旋转排序数组中的最小值](src/practice/Solution153.java)
@@ -87,6 +93,8 @@
 
 [215.数组中的第K个最大元素](src/practice/Solution215.java)
 
+[234.回文链表](src/practice/Solution234.java)
+
 [235.二叉搜索树的最近公共祖先](src/practice/Solution235.java)
 
 [278.第一个错误的版本](src/practice/Solution278.java)
@@ -96,6 +104,8 @@
 [299.猜数字游戏](src/practice/Solution299.java)
 
 [322.零钱兑换](src/practice/Solution322.java)
+
+[328.奇偶链表](src/practice/Solution328.java)
 
 [337.打家劫舍|||](src/practice/Solution337.java)
 
@@ -242,6 +252,8 @@
 [1945.字符串转化后的各位数字之和](src/practice/Solution1945.java)
 
 [2124.检查是否所有 A 都在 B 之前](src/practice/Solution2124.java)
+
+[2131.连接两字母单词得到的最长回文串](src/practice/Solution2131.java)
 
 [2331.计算布尔二叉树的值](src/practice/Solution2331.java)
 

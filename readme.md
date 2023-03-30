@@ -267,3 +267,14 @@
 # Spring学习
 
 [1. springAOP简单使用](spring-aop)
+
+# 程序员面试金典
+[1、判定字符是否唯一](src/programmer/interview/golden/code/Solution1.java)
+
+[2、判定是否互为字符重排](src/programmer/interview/golden/code/Solution2.java)
+
+[3、URL化](src/programmer/interview/golden/code/Solution3.java)
+
+[4、回文排列](src/programmer/interview/golden/code/Solution4.java)
+
+[5、一次编辑](src/programmer/interview/golden/code/Solution5.java)

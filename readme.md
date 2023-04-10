@@ -303,5 +303,13 @@
 
 [17.环路检测](src/programmer/interview/golden/code/Solution17.java)
 
-[17.三合一](src/programmer/interview/golden/code/Solution18.java)
+[18.三合一](src/programmer/interview/golden/code/Solution18.java)
+
+[19.栈的最小值](src/programmer/interview/golden/code/MinStack.java)
+
+[20.化栈为队](src/programmer/interview/golden/code/MyQueue.java)
+
+[21.栈排序](src/programmer/interview/golden/code/SortedStack.java)
+
+[22.动物收容所](src/programmer/interview/golden/code/AnimalShelf.java)
 

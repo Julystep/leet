@@ -269,17 +269,17 @@
 [1. springAOP简单使用](spring-aop)
 
 # 程序员面试金典
-[1. 判定字符是否唯一](src/programmer/interview/golden/code/Solution1.java)
+[1.判定字符是否唯一](src/programmer/interview/golden/code/Solution1.java)
 
-[2. 判定是否互为字符重排](src/programmer/interview/golden/code/Solution2.java)
+[2.判定是否互为字符重排](src/programmer/interview/golden/code/Solution2.java)
 
-[3. URL化](src/programmer/interview/golden/code/Solution3.java)
+[3.URL化](src/programmer/interview/golden/code/Solution3.java)
 
-[4. 回文排列](src/programmer/interview/golden/code/Solution4.java)
+[4.回文排列](src/programmer/interview/golden/code/Solution4.java)
 
-[5. 一次编辑](src/programmer/interview/golden/code/Solution5.java)
+[5.一次编辑](src/programmer/interview/golden/code/Solution5.java)
 
-[6. 字符串压缩](src/programmer/interview/golden/code/Solution6.java)
+[6.字符串压缩](src/programmer/interview/golden/code/Solution6.java)
 
 [7.旋转矩阵](src/programmer/interview/golden/code/Solution7.java)
 
@@ -313,3 +313,26 @@
 
 [22.动物收容所](src/programmer/interview/golden/code/AnimalShelf.java)
 
+[23.节点间通路](src/programmer/interview/golden/code/Solution19.java)
+
+[24.最小高度树](src/programmer/interview/golden/code/Solution20.java)
+
+[25.特定深度节点链表](src/programmer/interview/golden/code/Solution21.java)
+
+[26.检查平衡性](src/programmer/interview/golden/code/Solution22.java)
+
+[27.合法二叉搜索树](src/programmer/interview/golden/code/Solution23.java)
+
+[28.后继者](src/programmer/interview/golden/code/Solution24.java)
+
+[29.首个共同祖先](src/programmer/interview/golden/code/Solution25.java)
+
+[30.检查子树](src/programmer/interview/golden/code/Solution26.java)
+
+[31.求和路径](src/programmer/interview/golden/code/Solution27.java)
+
+[32.插入](src/programmer/interview/golden/code/Solution28.java)
+
+[33.二进制数转字符串](src/programmer/interview/golden/code/Solution29.java)
+
+[34.翻转数位](src/programmer/interview/golden/code/Solution30.java)

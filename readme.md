@@ -11,6 +11,8 @@
 
 [21.合并两个有序链表](src/practice/Solution21.java)
 
+[26.删除有序数组中的重复项](src/practice/Solution26.java)
+
 [28.找出字符串中第一个匹配项的下标](src/practice/Solution28.java)
 
 [33.搜索旋转排序数组](src/practice/Solution33.java)
@@ -36,6 +38,8 @@
 [70.爬楼梯](src/practice/Solution70.java)
 
 [74.搜索二维矩阵](src/practice/Solution74.java)
+
+[80.删除有序数组中的重复项 II](src/practice/Solution80.java)
 
 [91.解码方法](src/practice/Solution91.java)
 
@@ -76,6 +80,8 @@
 [155.最小栈](src/practice/Solution155.java)
 
 [167.两数之和|| - 输入有序数组](src/practice/Solution167.java)
+
+[169.多数元素](src/practice/Solution169.java)
 
 [198.打家劫舍](src/practice/Solution198.java)
 
@@ -336,3 +342,11 @@
 [33.二进制数转字符串](src/programmer/interview/golden/code/Solution29.java)
 
 [34.翻转数位](src/programmer/interview/golden/code/Solution30.java)
+
+[35.三步问题](src/programmer/interview/golden/code/Solution31.java)
+
+[36.幂集](src/programmer/interview/golden/code/Solution32.java)
+
+[37.递归乘法](src/programmer/interview/golden/code/Solution33.java)
+
+[38.汉诺塔问题](src/programmer/interview/golden/code/Solution34.java)

@@ -13,6 +13,8 @@
 
 [26.删除有序数组中的重复项](src/practice/Solution26.java)
 
+[27.移除元素](src/practice/Solution27.java)
+
 [28.找出字符串中第一个匹配项的下标](src/practice/Solution28.java)
 
 [33.搜索旋转排序数组](src/practice/Solution33.java)
@@ -40,6 +42,8 @@
 [74.搜索二维矩阵](src/practice/Solution74.java)
 
 [80.删除有序数组中的重复项 II](src/practice/Solution80.java)
+
+[88.合并两个有序数组](src/practice/Solution88.java)
 
 [91.解码方法](src/practice/Solution91.java)
 

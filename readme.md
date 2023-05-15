@@ -91,6 +91,8 @@
 
 [150.逆波兰表达式](src/practice/Soultion150.java)
 
+[151.反转字符串中的单词](src/practice/Solution151.java)
+
 [153.寻找旋转排序数组中的最小值](src/practice/Solution153.java)
 
 [155.最小栈](src/practice/Solution155.java)

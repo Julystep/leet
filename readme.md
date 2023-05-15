@@ -119,7 +119,11 @@
 
 [234.回文链表](src/practice/Solution234.java)
 
+[238.除自身以外数组的乘积](src/practice/Solution238.java)
+
 [235.二叉搜索树的最近公共祖先](src/practice/Solution235.java)
+
+[274.H指数](src/practice/Solution274.java)
 
 [278.第一个错误的版本](src/practice/Solution278.java)
 

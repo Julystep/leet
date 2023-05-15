@@ -1,8 +1,6 @@
 package practice;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Random;
+import java.util.*;
 
 /**
  * hash表查询数据的时间是o1
@@ -11,25 +9,46 @@ import java.util.Random;
 
 public class RandomizedSet {
 
-    static int[] nums = new int[200010];
-    Random random = new Random();
-    Map<Integer, Integer> map = new HashMap<>();
-    int idx = -1;
+    List<Integer> numData;
+    Map<Integer, Integer> map;
+    Random random;
+    public RandomizedSet() {
+        numData = new ArrayList<>();
+        map = new HashMap<>();
+        random = new Random();
+    }
+
     public boolean insert(int val) {
         if (map.containsKey(val)) return false;
-        nums[++idx] = val;
-        map.put(val, idx);
+        int index = numData.size();
+        numData.add(index, val);
+        map.put(val, index);
         return true;
     }
+
+    /*
+    if (!map.containsKey(val)) return false;
+        int index = map.get(val);
+        int last = numData.get(numData.size() - 1);
+        numData.set(index, last);
+        map.put(last, index);
+        numData.remove(numData.size() - 1);
+        map.remove(val);
+        return true;
+     */
     public boolean remove(int val) {
         if (!map.containsKey(val)) return false;
+        int index = numData.size() - 1;
         int loc = map.remove(val);
-        if (loc != idx) map.put(nums[idx], loc);
-        nums[loc] = nums[idx--];
+        if (loc != index) map.put(numData.get(index), loc);
+        numData.set(loc, numData.get(index));
+        numData.remove(index);
+        map.remove(val);
         return true;
     }
+
     public int getRandom() {
-        return nums[random.nextInt(idx + 1)];
+        return numData.get(random.nextInt(numData.size()));
     }
 
 }

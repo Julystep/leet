@@ -5,6 +5,10 @@
 
 [5.最长回文子串](src/practice/Solution5.java)
 
+[12.整数转罗马数字](src/practice/Solution12.java)
+
+[13.罗马数字转整数](src/practice/Solution13.java)
+
 [14.最长公共前缀](src/practice/Solution14.java)
 
 [19.删除链表的倒数第 N 个结点](src/practice/Solution19.java)
@@ -24,6 +28,8 @@
 [34.在排序数组中查找元素的第一个和最后一个位置](src/practice/Solution34.java)
 
 [35.搜索插入位置](src/practice/Solution35.java)
+
+[42.接雨水](src/practice/Solution42.java)
 
 [43.字符串相乘](src/practice/Solution43.java)
 
@@ -76,6 +82,8 @@
 [130.被围绕的区域](src/practice/Solution130.java)
 
 [131.分割回文串](src/practice/Solution131.java)
+
+[135.分发糖果](src/practice/Solution135.java)
 
 [142.环形链表 II](src/practice/Solution142.java)
 

@@ -5,11 +5,15 @@
 
 [5.最长回文子串](src/practice/Solution5.java)
 
+[11.盛水最多的容器](src/practice/Solution11.java)
+
 [12.整数转罗马数字](src/practice/Solution12.java)
 
 [13.罗马数字转整数](src/practice/Solution13.java)
 
 [14.最长公共前缀](src/practice/Solution14.java)
+
+[15.三数之和](src/practice/Solution15.java)
 
 [19.删除链表的倒数第 N 个结点](src/practice/Solution19.java)
 
@@ -78,6 +82,8 @@
 [121.买卖股票的最佳时机](src/practice/Solution121.java)
 
 [122.买卖股票的最佳时机 II](src/practice/Solution122.java)
+
+[125.验证回文串](src/practice/Solution125.java)
 
 [130.被围绕的区域](src/practice/Solution130.java)
 

@@ -27,17 +27,25 @@
 
 [28.找出字符串中第一个匹配项的下标](src/practice/Solution28.java)
 
+[30.串联所有单词的子串](src/practice/Solution30.java)
+
 [33.搜索旋转排序数组](src/practice/Solution33.java)
 
 [34.在排序数组中查找元素的第一个和最后一个位置](src/practice/Solution34.java)
 
 [35.搜索插入位置](src/practice/Solution35.java)
 
+[36.有效的数独](src/practice/Solution36.java)
+
 [42.接雨水](src/practice/Solution42.java)
 
 [43.字符串相乘](src/practice/Solution43.java)
 
 [45.跳跃游戏||](src/practice/Solution45.java)
+
+[48.旋转图像](src/practice/Solution48.java)
+
+[49.字母异位词分组](src/practice/Solution49.java)
 
 [54.螺旋矩阵](src/practice/Solution54.java)
 
@@ -51,7 +59,11 @@
 
 [70.爬楼梯](src/practice/Solution70.java)
 
+[73.矩阵置零](src/practice/Solution73.java)
+
 [74.搜索二维矩阵](src/practice/Solution74.java)
+
+[76.最小覆盖子串](src/practice/Solution76.java)
 
 [80.删除有序数组中的重复项 II](src/practice/Solution80.java)
 
@@ -131,11 +143,17 @@
 
 [235.二叉搜索树的最近公共祖先](src/practice/Solution235.java)
 
+[242.有效的字母异位词](src/practice/Solution242.java)
+
 [274.H指数](src/practice/Solution274.java)
 
 [278.第一个错误的版本](src/practice/Solution278.java)
 
 [279.完全平方数](src/practice/Solution279.java)
+
+[289.生命游戏](src/practice/Solution289.java)
+
+[290.单词规律](src/practice/Solution290.java)
 
 [299.猜数字游戏](src/practice/Solution299.java)
 
@@ -156,6 +174,8 @@
 [374.猜数字大小](src/practice/Solution374.java)
 
 [380.O(1)时间插入、删除和获取随机元素](src/practice/RandomizedSet.java)
+
+[383.赎金信](src/practice/Solution383.java)
 
 [386.字典序排数](src/practice/Solution386.java)
 

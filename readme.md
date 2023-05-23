@@ -49,6 +49,10 @@
 
 [54.螺旋矩阵](src/practice/Solution54.java)
 
+[56.合并区间](src/practice/Solution56.java)
+
+[57.插入区间](src/practice/Solution57.java)
+
 [58.最后的代码的长度](src/practice/Solution58.java)
 
 [62.不同路径](src/practice/Solution62.java)
@@ -97,6 +101,8 @@
 
 [125.验证回文串](src/practice/Solution125.java)
 
+[128.最长连续序列](src/practice/Solution128.java)
+
 [130.被围绕的区域](src/practice/Solution130.java)
 
 [131.分割回文串](src/practice/Solution131.java)
@@ -136,6 +142,8 @@
 [213.打家劫舍||](src/practice/Solution213.java)
 
 [215.数组中的第K个最大元素](src/practice/Solution215.java)
+
+[228.汇总区间](src/practice/Solution228.java)
 
 [234.回文链表](src/practice/Solution234.java)
 
@@ -198,6 +206,8 @@
 [438.找到字符串中所有字母异位词](src/practice/Solution438.java)
 
 [441.排列硬币](src/practice/Solution441.java)
+
+[452.用最少数量的箭引爆气球](src/practice/Solution452.java)
 
 [576.出界的路径数](src/practice/Solution576.java)
 

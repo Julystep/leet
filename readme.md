@@ -3,6 +3,8 @@
 
 [1.两数之和](src/practice/Solution1.java)
 
+[3.无重复字符的最长子串](src/practice/Solution3.java)
+
 [5.最长回文子串](src/practice/Solution5.java)
 
 [11.盛水最多的容器](src/practice/Solution11.java)

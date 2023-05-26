@@ -65,6 +65,8 @@
 
 [70.爬楼梯](src/practice/Solution70.java)
 
+[71.简化路径](src/practice/Solution71.java)
+
 [73.矩阵置零](src/practice/Solution73.java)
 
 [74.搜索二维矩阵](src/practice/Solution74.java)
@@ -115,7 +117,7 @@
 
 [148.排序链表](src/practice/Solution148.java)
 
-[150.逆波兰表达式](src/practice/Soultion150.java)
+[150.逆波兰表达式](src/practice/Solution150.java)
 
 [151.反转字符串中的单词](src/practice/Solution151.java)
 
@@ -144,6 +146,8 @@
 [213.打家劫舍||](src/practice/Solution213.java)
 
 [215.数组中的第K个最大元素](src/practice/Solution215.java)
+
+[224.基本计算器](src/practice/Solution224.java)
 
 [228.汇总区间](src/practice/Solution228.java)
 

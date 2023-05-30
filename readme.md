@@ -3,6 +3,8 @@
 
 [1.两数之和](src/practice/Solution1.java)
 
+[2.两数相加](src/practice/Solution2.java)
+
 [3.无重复字符的最长子串](src/practice/Solution3.java)
 
 [5.最长回文子串](src/practice/Solution5.java)
@@ -112,6 +114,8 @@
 [131.分割回文串](src/practice/Solution131.java)
 
 [135.分发糖果](src/practice/Solution135.java)
+
+[141.环形链表](src/practice/Solution141.java)
 
 [142.环形链表 II](src/practice/Solution142.java)
 

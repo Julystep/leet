@@ -81,6 +81,8 @@
 
 [91.解码方法](src/practice/Solution91.java)
 
+[92.反转链表 II](src/practice/Solution92.java)
+
 [96.不同的二叉搜索树](src/practice/Solution96.java)
 
 [97.交错的字符串](src/practice/Solution97.java)
@@ -114,6 +116,8 @@
 [131.分割回文串](src/practice/Solution131.java)
 
 [135.分发糖果](src/practice/Solution135.java)
+
+[138.复制带随机指针的链表](src/practice/Solution138.java)
 
 [141.环形链表](src/practice/Solution141.java)
 

@@ -25,6 +25,8 @@
 
 [21.合并两个有序链表](src/practice/Solution21.java)
 
+[25.K 个一组翻转链表](src/practice/Solution25.java)
+
 [26.删除有序数组中的重复项](src/practice/Solution26.java)
 
 [27.移除元素](src/practice/Solution27.java)
@@ -59,6 +61,8 @@
 
 [58.最后的代码的长度](src/practice/Solution58.java)
 
+[61.旋转链表](src/practice/Solution61.java)
+
 [62.不同路径](src/practice/Solution62.java)
 
 [66.加一](src/practice/Solution66.java)
@@ -77,6 +81,10 @@
 
 [80.删除有序数组中的重复项 II](src/practice/Solution80.java)
 
+[82.删除排序链表中的重复元素 II](src/practice/Solution82.java)
+
+[86.分隔链表](src/practice/Solution86.java)
+
 [88.合并两个有序数组](src/practice/Solution88.java)
 
 [91.解码方法](src/practice/Solution91.java)
@@ -92,6 +100,10 @@
 [100.相同的树](src/practice/Solution100.java)
 
 [103.二叉树的锯齿形层序遍历](src/practice/Solution103.java)
+
+[104.对称二叉树](src/practice/Solution104.java)
+
+[105.从前序与中序遍历序列构造二叉树](src/practice/Solution105.java)
 
 [107.二叉树的层序遍历 II](src/practice/Solution107.java)
 
@@ -122,6 +134,8 @@
 [141.环形链表](src/practice/Solution141.java)
 
 [142.环形链表 II](src/practice/Solution142.java)
+
+[146.LRU 缓存](src/practice/LRUCache.java)
 
 [148.排序链表](src/practice/Solution148.java)
 

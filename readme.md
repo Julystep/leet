@@ -105,6 +105,8 @@
 
 [105.从前序与中序遍历序列构造二叉树](src/practice/Solution105.java)
 
+[106.从中序与后序遍历序列构造二叉树](src/practice/Solution106.java)
+
 [107.二叉树的层序遍历 II](src/practice/Solution107.java)
 
 [110.平衡二叉树](src/practice/Solution110.java)

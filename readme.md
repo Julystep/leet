@@ -113,6 +113,8 @@
 
 [113.路径总和||](src/practice/Solution113.java)
 
+[114.二叉树展开为链表](src/practice/Solution114.java)
+
 [116.填充每个节点的下一个右侧节点指针](src/practice/Solution116.java)
 
 [117.填充每个节点的下一个右侧节点指针 II](src/practice/Solution117.java)
@@ -124,6 +126,8 @@
 [125.验证回文串](src/practice/Solution125.java)
 
 [128.最长连续序列](src/practice/Solution128.java)
+
+[129.求根节点到叶节点数字之和](src/practice/Solution129.java)
 
 [130.被围绕的区域](src/practice/Solution130.java)
 

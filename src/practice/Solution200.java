@@ -1,3 +1,5 @@
+package practice;
+
 /**
  * 岛屿数量
  * @since v0.0.0

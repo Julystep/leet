@@ -187,6 +187,8 @@
 
 [228.汇总区间](src/practice/Solution228.java)
 
+[230.二叉搜索树中第K小的元素](src/practice/Solution230.java)
+
 [234.回文链表](src/practice/Solution234.java)
 
 [236.二叉树的最近公共祖先](src/practice/Solution236.java)
@@ -252,6 +254,8 @@
 [441.排列硬币](src/practice/Solution441.java)
 
 [452.用最少数量的箭引爆气球](src/practice/Solution452.java)
+
+[530.二叉搜索树的最小绝对差](src/practice/Solution530.java)
 
 [576.出界的路径数](src/practice/Solution576.java)
 

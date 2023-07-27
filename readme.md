@@ -45,11 +45,15 @@
 
 [36.有效的数独](src/practice/Solution36.java)
 
+[39.组合总和](src/practice/Solution39.java)
+
 [42.接雨水](src/practice/Solution42.java)
 
 [43.字符串相乘](src/practice/Solution43.java)
 
 [45.跳跃游戏||](src/practice/Solution45.java)
+
+[46.全排列](src/practice/Solution46.java)
 
 [48.旋转图像](src/practice/Solution48.java)
 

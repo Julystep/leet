@@ -149,6 +149,8 @@
 
 [131.分割回文串](src/practice/Solution131.java)
 
+[132.只出现一次的数字 II](src/practice/Solution132.java)
+
 [135.分发糖果](src/practice/Solution135.java)
 
 [138.复制带随机指针的链表](src/practice/Solution138.java)

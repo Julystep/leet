@@ -59,6 +59,8 @@
 
 [49.字母异位词分组](src/practice/Solution49.java)
 
+[52.n皇后](src/practice/Solution52.java)
+
 [54.螺旋矩阵](src/practice/Solution54.java)
 
 [56.合并区间](src/practice/Solution56.java)
@@ -86,6 +88,8 @@
 [76.最小覆盖子串](src/practice/Solution76.java)
 
 [77.组合](src/practice/Solution77.java)
+
+[79.单词搜索](src/practice/Solution79.java)
 
 [80.删除有序数组中的重复项 II](src/practice/Solution80.java)
 

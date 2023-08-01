@@ -1,3 +1,5 @@
+package practice;
+
 /**
  * 二进制求和
  *

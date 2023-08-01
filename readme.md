@@ -153,6 +153,8 @@
 
 [135.分发糖果](src/practice/Solution135.java)
 
+[136.只出现一次的数字](src/practice/Solution136.java)
+
 [138.复制带随机指针的链表](src/practice/Solution138.java)
 
 [141.环形链表](src/practice/Solution141.java)
@@ -178,6 +180,8 @@
 [173.二叉搜索树迭代器](src/practice/BSTIterator.java);
 
 [189.轮转数组](src/practice/Solution189.java)
+
+[190.颠倒二进制位](src/practice/Solution190.java)
 
 [198.打家劫舍](src/practice/Solution198.java)
 
@@ -216,6 +220,8 @@
 [235.二叉搜索树的最近公共祖先](src/practice/Solution235.java)
 
 [242.有效的字母异位词](src/practice/Solution242.java)
+
+[260.只出现一次的数字 III](src/practice/Solution260.java)
 
 [274.H指数](src/practice/Solution274.java)
 
@@ -262,6 +268,8 @@
 [398.随机数索引](src/practice/Solution398.java)
 
 [414.第三大的数](src/practice/Solution414.java)
+
+[421.数组中两个数的最大异或值](src/practice/Solution421.java)
 
 [424.替换后的最长重复字符](src/practice/Solution424.java)
 

@@ -59,6 +59,8 @@
 
 [49.字母异位词分组](src/practice/Solution49.java)
 
+[50.Pow(x, n)](src/practice/Solution50.java)
+
 [52.n皇后](src/practice/Solution52.java)
 
 [54.螺旋矩阵](src/practice/Solution54.java)
@@ -179,6 +181,8 @@
 
 [169.多数元素](src/practice/Solution169.java)
 
+[172.阶乘后的零](src/practice/Solution172.java)
+
 [173.二叉搜索树迭代器](src/practice/BSTIterator.java);
 
 [189.轮转数组](src/practice/Solution189.java)
@@ -240,6 +244,8 @@
 [290.单词规律](src/practice/Solution290.java)
 
 [299.猜数字游戏](src/practice/Solution299.java)
+
+[300.最长递增子序列](src/practice/Solution300.java)
 
 [322.零钱兑换](src/practice/Solution322.java)
 

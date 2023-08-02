@@ -157,6 +157,8 @@
 
 [138.复制带随机指针的链表](src/practice/Solution138.java)
 
+[139.单词拆分](src/practice/Solution139.java)
+
 [141.环形链表](src/practice/Solution141.java)
 
 [142.环形链表 II](src/practice/Solution142.java)
@@ -183,11 +185,15 @@
 
 [190.颠倒二进制位](src/practice/Solution190.java)
 
+[191.位1的个数](src/practice/Solution191.java)
+
 [198.打家劫舍](src/practice/Solution198.java)
 
 [199.二叉树的右视图](src/practice/Solution199.java)
 
 [200.岛屿数量](src/practice/Solution200.java)
+
+[201.数字范围按位与](src/practice/Solution201.java)
 
 [202.快乐数](src/practice/Solution202.java)
 

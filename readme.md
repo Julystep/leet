@@ -75,6 +75,10 @@
 
 [62.不同路径](src/practice/Solution62.java)
 
+[63.不同路径 II](src/practice/Solution63.java)
+
+[64.最小路径和](src/practice/Solution64.java)
+
 [66.加一](src/practice/Solution66.java)
 
 [69.x的平方根](src/practice/Solution69.java)
@@ -134,6 +138,8 @@
 [116.填充每个节点的下一个右侧节点指针](src/practice/Solution116.java)
 
 [117.填充每个节点的下一个右侧节点指针 II](src/practice/Solution117.java)
+
+[120.三角形最小路径和](src/practice/Solution120.java)
 
 [121.买卖股票的最佳时机](src/practice/Solution121.java)
 

@@ -87,6 +87,8 @@
 
 [71.简化路径](src/practice/Solution71.java)
 
+[72.编辑距离](src/practice/Solution72.java)
+
 [73.矩阵置零](src/practice/Solution73.java)
 
 [74.搜索二维矩阵](src/practice/Solution74.java)

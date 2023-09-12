@@ -65,6 +65,8 @@
 
 [54.螺旋矩阵](src/practice/Solution54.java)
 
+[55.跳跃游戏](src/practice/Solution55.java)
+
 [56.合并区间](src/practice/Solution56.java)
 
 [57.插入区间](src/practice/Solution57.java)

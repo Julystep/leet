@@ -321,6 +321,8 @@
 
 [658.找到K个最接近的元素](src/practice/Solution658.java)
 
+[682.棒球比赛](src/practice/Solution682.java)
+
 [692.前K个高频单词](src/practice/Solution692.java)
 
 [704.二分查找](src/practice/Solution704.java)

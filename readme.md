@@ -47,6 +47,8 @@
 
 [39.组合总和](src/practice/Solution39.java)
 
+[50.Pow(x, n)](src/practice/Solution50.java)
+
 [42.接雨水](src/practice/Solution42.java)
 
 [43.字符串相乘](src/practice/Solution43.java)
@@ -424,6 +426,8 @@
 [2331.计算布尔二叉树的值](src/practice/Solution2331.java)
 
 [2399.检查相同字母间的距离](src/practice/Solution2399.java)
+
+[2961.双模幂运算](src/practice/Solution2961.java)
 
 # 剑指offer
 [09.用两个栈实现队列](src/practice/SwordSolution9.java)

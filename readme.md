@@ -429,6 +429,8 @@
 
 [2961.双模幂运算](src/practice/Solution2961.java)
 
+[3131.找出与数组相加的整数 I](src/practice/Solution3131.java)
+
 # 剑指offer
 [09.用两个栈实现队列](src/practice/SwordSolution9.java)
 

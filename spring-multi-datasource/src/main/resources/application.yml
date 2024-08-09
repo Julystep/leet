@@ -1,0 +1,15 @@
+
+
+spring:
+  datasource:
+    db1:
+      driver-class-name:  com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://192.168.202.147:3306/teis_v2?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&serverTimezone=Asia/Shanghai
+      username: wangwei
+      password: PRODWangwei@2022
+    db2:
+      driver-class-name:  com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://192.168.202.147:3306/teis_v2?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&serverTimezone=Asia/Shanghai
+      username: wangwei
+      password: PRODWangwei@2022
+
